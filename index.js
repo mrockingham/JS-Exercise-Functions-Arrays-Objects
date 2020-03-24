@@ -322,7 +322,7 @@ function getOlderCars(invintory, maxYear) {
    } 
  } 
 return allCars
-}
+} 
 
 /**
  * ### Challenge `getGermanCars`
